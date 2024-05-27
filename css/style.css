@@ -507,7 +507,7 @@ h6 { font-size: 16px; }
 .grax_tm_hero .container{height: 100%;}
 .grax_tm_hero .details{
 	position: absolute;
-	top: 50%;
+	top: 44%;
 	transform: translateY(-50%);
 	z-index: 5;
 }
@@ -568,7 +568,6 @@ h6 { font-size: 16px; }
 	font-weight: 500;
 	margin-bottom: 40px;
 	max-width: 400px;
-	font-style: italic;
 }
 .grax_tm_down{
 	position: absolute;
