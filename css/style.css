@@ -740,8 +740,8 @@ h6 { font-size: 16px; }
 	text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #fa5b0f;
-	border: 2px solid #fa5b0f;
+    background-color: #fa5b0f !important;
+	border: 2px solid #fa5b0f !important;
     padding: 10px 40px;
     border-radius: 5px;
 	
